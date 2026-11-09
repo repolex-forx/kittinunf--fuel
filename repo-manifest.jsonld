@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kittinunf/fuel/commit/57aa89126e0d488dd54cfc2d0d9215ade2a578a9",
       "git:hexsha": "57aa89126e0d488dd54cfc2d0d9215ade2a578a9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kittinunf/fuel/commit/5660cdb5a0b202374908008f0c6786cb571b5051",
