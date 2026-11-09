@@ -1,0 +1,11 @@
+{
+  "org": "kittinunf",
+  "repo": "fuel",
+  "versions": [
+    {
+      "commit": "57aa89126e0d488dd54cfc2d0d9215ade2a578a9",
+      "tag": "",
+      "parsed_at": "2026-11-09T19:01:52.487647+00:00"
+    }
+  ]
+}
